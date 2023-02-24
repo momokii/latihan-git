@@ -1,0 +1,3 @@
+mngubah file cek utama ini 
+
+kemudian coba kita cek pada git bash okai
