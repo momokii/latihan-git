@@ -1,0 +1,4 @@
+mengubah file ini, lalu coba cek lagi ya gs di git bash gimana cara add file yang sudah di ubah ini.
+
+ini ubah file lagi
+ini juga ubah lagi tapi belum di commit ya ges
